@@ -1,0 +1,14 @@
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\OOP_PropertiesAssessment\OOP_PropertiesAssessment\bin\Debug\net7.0\OOP_PropertiesAssessment.exe
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\OOP_PropertiesAssessment\OOP_PropertiesAssessment\bin\Debug\net7.0\OOP_PropertiesAssessment.deps.json
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\OOP_PropertiesAssessment\OOP_PropertiesAssessment\bin\Debug\net7.0\OOP_PropertiesAssessment.runtimeconfig.json
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\OOP_PropertiesAssessment\OOP_PropertiesAssessment\bin\Debug\net7.0\OOP_PropertiesAssessment.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\OOP_PropertiesAssessment\OOP_PropertiesAssessment\bin\Debug\net7.0\OOP_PropertiesAssessment.pdb
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\OOP_PropertiesAssessment\OOP_PropertiesAssessment\obj\Debug\net7.0\OOP_PropertiesAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\OOP_PropertiesAssessment\OOP_PropertiesAssessment\obj\Debug\net7.0\OOP_PropertiesAssessment.AssemblyInfoInputs.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\OOP_PropertiesAssessment\OOP_PropertiesAssessment\obj\Debug\net7.0\OOP_PropertiesAssessment.AssemblyInfo.cs
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\OOP_PropertiesAssessment\OOP_PropertiesAssessment\obj\Debug\net7.0\OOP_PropertiesAssessment.csproj.CoreCompileInputs.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\OOP_PropertiesAssessment\OOP_PropertiesAssessment\obj\Debug\net7.0\OOP_PropertiesAssessment.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\OOP_PropertiesAssessment\OOP_PropertiesAssessment\obj\Debug\net7.0\refint\OOP_PropertiesAssessment.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\OOP_PropertiesAssessment\OOP_PropertiesAssessment\obj\Debug\net7.0\OOP_PropertiesAssessment.pdb
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\OOP_PropertiesAssessment\OOP_PropertiesAssessment\obj\Debug\net7.0\OOP_PropertiesAssessment.genruntimeconfig.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\OOP_PropertiesAssessment\OOP_PropertiesAssessment\obj\Debug\net7.0\ref\OOP_PropertiesAssessment.dll

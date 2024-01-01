@@ -1,0 +1,14 @@
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP\Creating_Classes\Creating_Classes\bin\Debug\net7.0\Creating_Classes.exe
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP\Creating_Classes\Creating_Classes\bin\Debug\net7.0\Creating_Classes.deps.json
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP\Creating_Classes\Creating_Classes\bin\Debug\net7.0\Creating_Classes.runtimeconfig.json
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP\Creating_Classes\Creating_Classes\bin\Debug\net7.0\Creating_Classes.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP\Creating_Classes\Creating_Classes\bin\Debug\net7.0\Creating_Classes.pdb
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP\Creating_Classes\Creating_Classes\obj\Debug\net7.0\Creating_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP\Creating_Classes\Creating_Classes\obj\Debug\net7.0\Creating_Classes.AssemblyInfoInputs.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP\Creating_Classes\Creating_Classes\obj\Debug\net7.0\Creating_Classes.AssemblyInfo.cs
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP\Creating_Classes\Creating_Classes\obj\Debug\net7.0\Creating_Classes.csproj.CoreCompileInputs.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP\Creating_Classes\Creating_Classes\obj\Debug\net7.0\Creating_Classes.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP\Creating_Classes\Creating_Classes\obj\Debug\net7.0\refint\Creating_Classes.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP\Creating_Classes\Creating_Classes\obj\Debug\net7.0\Creating_Classes.pdb
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP\Creating_Classes\Creating_Classes\obj\Debug\net7.0\Creating_Classes.genruntimeconfig.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP\Creating_Classes\Creating_Classes\obj\Debug\net7.0\ref\Creating_Classes.dll

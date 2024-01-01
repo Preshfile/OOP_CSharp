@@ -1,0 +1,1 @@
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP\Members_And_FinilizersSlashDistructors\Members_And_FinilizersSlashDistructors\obj\Debug\net7.0\Members_And_Finilizers_Distructors.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,14 @@
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP\ShortcutsInVS\ShortcutsInVS\bin\Debug\net7.0\ShortcutsInVS.exe
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP\ShortcutsInVS\ShortcutsInVS\bin\Debug\net7.0\ShortcutsInVS.deps.json
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP\ShortcutsInVS\ShortcutsInVS\bin\Debug\net7.0\ShortcutsInVS.runtimeconfig.json
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP\ShortcutsInVS\ShortcutsInVS\bin\Debug\net7.0\ShortcutsInVS.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP\ShortcutsInVS\ShortcutsInVS\bin\Debug\net7.0\ShortcutsInVS.pdb
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP\ShortcutsInVS\ShortcutsInVS\obj\Debug\net7.0\ShortcutsInVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP\ShortcutsInVS\ShortcutsInVS\obj\Debug\net7.0\ShortcutsInVS.AssemblyInfoInputs.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP\ShortcutsInVS\ShortcutsInVS\obj\Debug\net7.0\ShortcutsInVS.AssemblyInfo.cs
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP\ShortcutsInVS\ShortcutsInVS\obj\Debug\net7.0\ShortcutsInVS.csproj.CoreCompileInputs.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP\ShortcutsInVS\ShortcutsInVS\obj\Debug\net7.0\ShortcutsInVS.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP\ShortcutsInVS\ShortcutsInVS\obj\Debug\net7.0\refint\ShortcutsInVS.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP\ShortcutsInVS\ShortcutsInVS\obj\Debug\net7.0\ShortcutsInVS.pdb
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP\ShortcutsInVS\ShortcutsInVS\obj\Debug\net7.0\ShortcutsInVS.genruntimeconfig.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP\ShortcutsInVS\ShortcutsInVS\obj\Debug\net7.0\ref\ShortcutsInVS.dll
